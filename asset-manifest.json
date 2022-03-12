@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/breakingbadcast/static/css/main.e8b35c89.css",
+    "main.js": "/breakingbadcast/static/js/main.bf088995.js",
+    "static/media/spinner.gif": "/breakingbadcast/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/bg.jpg": "/breakingbadcast/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "static/media/logo.png": "/breakingbadcast/static/media/logo.e6ecab4407f10ecd02bd.png",
+    "index.html": "/breakingbadcast/index.html",
+    "main.e8b35c89.css.map": "/breakingbadcast/static/css/main.e8b35c89.css.map",
+    "main.bf088995.js.map": "/breakingbadcast/static/js/main.bf088995.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8b35c89.css",
+    "static/js/main.bf088995.js"
+  ]
+}
